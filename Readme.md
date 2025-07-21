@@ -39,8 +39,6 @@ Open index.html in your browser.
 Done! 🎉
 
 💡 Author
-
-Saniya
-Pursuing BCA
-HTML | CSS | JavaScript
-
+Saniya 
+Pursuing BCA 
+HTML|CSS|JavaScript
