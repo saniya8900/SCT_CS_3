@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Saniya | SkillCraft - Password Tool</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="bg-gradient"></div>
+
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <button id="closeSidebar" class="close-btn">&times;</button>
+    <h2>About</h2>
+    <p>This Password Strength Checker was built by <strong>Saniya</strong> as part of the <strong>SkillCraft Internship</strong>.</p>
+    <p>It uses modern UI/UX with live password validation, elegant styling, and real-time feedback.</p>
+    <p><em>Beautiful, secure, and simple.</em></p>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="main-content">
+    <header class="navbar">
+      <div class="logo"> Password Checker  </div>
+      <button id="toggleSidebar" class="hamburger">&#9776;</button>
+    </header>
+
+    <section class="container">
+      <h2>Password Strength Checker</h2>
+      <input type="password" id="password" placeholder="Enter your password" />
+      <div id="strength">Strength: <span id="strengthText">N/A</span></div>
+
+      <ul id="criteria">
+        <li id="length">✔ Minimum 8 characters</li>
+        <li id="lowercase">✔ Lowercase letter</li>
+        <li id="uppercase">✔ Uppercase letter</li>
+        <li id="number">✔ Number</li>
+        <li id="special">✔ Special character (!@#$%^&*)</li>
+      </ul>
+    </section>
+
+    <footer class="footer">
+  <div class="footer-left">
+    <strong>Saniya</strong> | SkillCraft Internship © 2025
+  </div>
+  
+</footer>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
