@@ -39,7 +39,8 @@ Open index.html in your browser.
 Done! 🎉
 
 💡 Author
+
 Saniya
-SkillCraft Internship – Task 3
+Pursuing BCA
 HTML | CSS | JavaScript
 
