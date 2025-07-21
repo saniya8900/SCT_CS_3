@@ -27,7 +27,8 @@ Edit
 
 ### 📸 Preview
 
-![alt text](image.png)
+<img width="1856" height="917" alt="image" src="https://github.com/user-attachments/assets/f6d601f4-2546-430f-95da-07b0415be55c" />
+
 
 ### 🚀 Getting Started
 1. Download or clone the repo:
